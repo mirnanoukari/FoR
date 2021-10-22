@@ -1,0 +1,8 @@
+prefix=/home/mirna/catkin_ws1/install
+
+Name: macro_tutorial
+Description: Description of macro_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

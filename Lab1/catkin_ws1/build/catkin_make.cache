@@ -1,0 +1,2 @@
+FRF21_lab1/gripper_pkg:FRF21_lab1/lab1_tut:FRF21_lab1/macro_tutorial:simple_model
+-DCATKIN_DEVEL_PREFIX=/home/mirna/catkin_ws1/devel -DCMAKE_INSTALL_PREFIX=/home/mirna/catkin_ws1/install -G Unix Makefiles

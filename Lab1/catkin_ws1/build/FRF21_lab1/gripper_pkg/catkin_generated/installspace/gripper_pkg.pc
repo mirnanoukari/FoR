@@ -1,0 +1,8 @@
+prefix=/home/mirna/catkin_ws1/install
+
+Name: gripper_pkg
+Description: Description of gripper_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/mirna/catkin_ws1/install
+
+Name: lab1_tut
+Description: Description of lab1_tut
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

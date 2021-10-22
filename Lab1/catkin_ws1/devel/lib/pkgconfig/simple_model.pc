@@ -1,0 +1,8 @@
+prefix=/home/mirna/catkin_ws1/devel
+
+Name: simple_model
+Description: Description of simple_model
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
